@@ -172,6 +172,10 @@ http://srregio.net/Sr_Regio151120/tp.php?c=2373&p=3&k=srregio&f=.m3u8
 http://srregio.net/Sr_Regio151120/tp.php?c=2591&p=3&k=srregio&f=.m3u8
 
 *** CINE ***
+#EXTINF:-1 tvg-name="Pluto TV Cine" tvg-logo="https://images.pluto.tv/channels/5cf96b1c4f1ca3f0629f4bf0/colorLogoPNG.png" group-title="PLUTO USA",Pluto TV Cine
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96b1c4f1ca3f0629f4bf0/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=902&deviceId=5cf96b1c4f1ca3f0629f4bf0&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-name="Pluto TV Cine Acción" tvg-logo="https://images.pluto.tv/channels/5d8d164d92e97a5e107638d2/colorLogoPNG.png" group-title="PLUTO USA",Pluto TV Cine Acción
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d164d92e97a5e107638d2/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=904&deviceId=5d8d164d92e97a5e107638d2&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-name="Pluto TV Cine Estelar" tvg-logo="https://images.pluto.tv/channels/5cf968040ab7d8f181e6a68b/colorLogoPNG.png" group-title="PLUTO USA",Pluto TV Cine Estelar
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=901&deviceId=5cf968040ab7d8f181e6a68b&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1, A3CINE 
@@ -298,6 +302,20 @@ http://srregio.net/Sr_Regio151120/tp.php?c=1842&p=3&k=srregio&f=.m3u8
 http://srregio.net/Sr_Regio151120/tp.php?c=2113&p=3&k=srregio&f=.m3u8 
 
 *** DEPORTES ***
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport Xtra (CA)" tvg-logo="https://i.imgur.com/pVU9nrc.png" group-title="CANADA",Bein Sport Xtra (CA)
+https://bein-xtra-samsung-canada.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FTF (CA)" tvg-logo="https://i.imgur.com/IRWahfD.png" group-title="CANADA",FTF (CA)
+https://elevensports-samsunguk-ca.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="E3.TV" tvg-name="Esport 3" tvg-id="" tvg-logo="http://cdn.teleon.tv/logo/es-esport-3.jpg" group-title="SPAIN",Esport 3
+https://directes-tv-int.ccma.cat/int/ngrp:es3_web/playlist.m3u8
+#EXTINF:-1 tvg-name="CBS Sports HQ" tvg-logo="https://images.pluto.tv/channels/5e9f2c05172a0f0007db4786/colorLogoPNG.png" group-title="PLUTO USA",CBS Sports HQ
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e9f2c05172a0f0007db4786/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=702&deviceId=5e9f2c05172a0f0007db4786&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-name="beIN SPORTS XTRA" tvg-logo="https://images.pluto.tv/channels/5df975e2b27cf5000921c102/colorLogoPNG.png" group-title="PLUTO USA",beIN SPORTS XTRA
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=740&deviceId=5df975e2b27cf5000921c102&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-name="FOX Sports" tvg-logo="https://images.pluto.tv/channels/5a74b8e1e22a61737979c6bf/colorLogoPNG.png" group-title="PLUTO USA",FOX Sports
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=705&deviceId=5a74b8e1e22a61737979c6bf&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-name="Pluto TV Sports" tvg-logo="https://images.pluto.tv/channels/56340779a738201b4ccfeac9/colorLogoPNG.png" group-title="PLUTO USA",Pluto TV Sports
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56340779a738201b4ccfeac9/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=725&deviceId=56340779a738201b4ccfeac9&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-name="Sports News" tvg-logo="https://i.imgur.com/DWcfDc5.png" group-title="Bumblebee USA",Sports News
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf221fad5eeee0f5a40941c/playlist.m3u8
 #EXTINF:-1, ESPN + 
