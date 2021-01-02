@@ -302,6 +302,12 @@ http://srregio.net/Sr_Regio151120/tp.php?c=1842&p=3&k=srregio&f=.m3u8
 http://srregio.net/Sr_Regio151120/tp.php?c=2113&p=3&k=srregio&f=.m3u8 
 
 *** DEPORTES ***
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",BEIN ESPANIOL HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/487?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",BEIN SPORTS ENG HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/488?checkedby:hlscat.com
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="US" tvg-url="" group-title="English",Fox Sport News HD 1
+http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sport Xtra (CA)" tvg-logo="https://i.imgur.com/pVU9nrc.png" group-title="CANADA",Bein Sport Xtra (CA)
 https://bein-xtra-samsung-canada.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FTF (CA)" tvg-logo="https://i.imgur.com/IRWahfD.png" group-title="CANADA",FTF (CA)
@@ -360,6 +366,36 @@ http://srregio.net/Sr_Regio151120/tp.php?c=2157&p=3&k=srregio&f=.m3u8
 http://srregio.net/Sr_Regio151120/tp.php?c=2564&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1, FUEL TV HD 
 http://srregio.net/Sr_Regio151120/tp.php?c=2587&p=3&k=srregio&f=.m3u8 
+
+*** DEPORTES INTERNACIONALES ***
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",beIN Sports USA(tr)(720)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/59978?checkedby:hlscat.com
+#EXTINF:0,SP2: beIN Sports HD
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/93680
+#EXTINF:0,SP2: beIN Sport News
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/93679
+#EXTINF:0,SP:beIN Sport 1 H265
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/99730
+#EXTINF:0,SP:beIN Sport 2 H265
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/99731
+#EXTINF:0,SP:beIN Sport 3 H265
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/99732
+#EXTINF:0,SP:beIN Sport 4 H265
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/99733
+#EXTINF:0,SP:beIN Sport 5 H265
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/99734
+#EXTINF:0,SP:beIN Sport 6 H265
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/99735
+#EXTINF:0,SP:beIN Sport 7 H265
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/99736
+#EXTINF:0,SP:beIN Sport 10 H265
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/99739
+#EXTINF:0,Halow Sport HD
+http://echotv.online:8080/HalowTV/FSyzHfEhvb/137
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Sport",BEIN SPORT 1 FHD
+http://worldteam.io:8080/DuHNpHQARI/7LXS81PSo0/22150?checkedby:hlscat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Sport",BEIN SPORT 2 FHD
+http://worldteam.io:8080/DuHNpHQARI/7LXS81PSo0/22147?checkedby:hlscat.com
 
 *** CULTURALES ***
 #EXTINF:-1, DISCOVERY ID
