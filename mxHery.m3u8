@@ -365,7 +365,52 @@ http://srregio.net/Sr_Regio151120/tp.php?c=2157&p=3&k=srregio&f=.m3u8
 #EXTINF:-1, CLARO SPORTS HD  
 http://srregio.net/Sr_Regio151120/tp.php?c=2564&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1, FUEL TV HD 
-http://srregio.net/Sr_Regio151120/tp.php?c=2587&p=3&k=srregio&f=.m3u8 
+http://srregio.net/Sr_Regio151120/tp.php?c=2587&p=3&k=srregio&f=.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",NBA TV
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/386308.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",NBA TV(M)(720)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/1585?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",Espn (TV)(720)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/53832?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",Espn 2 (TV)(720)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/53833?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",ESPN 2 HD (ENG)
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/733?checkedby:hlscat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",DEPORTES: MEX Espn 3 (M)(SD)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/26771?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",ESPN Deportes
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1124?checkedby:hlscat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",ESPN 2 CHILE
+http://uruguayiptv.com:25461/leandro1/leandro123/79963?checkedby:hlscat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",ESPN 3 HD ARGENTINA
+http://uruguayiptv.com:25461/leandro1/leandro123/454?checkedby:hlscat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",ESPN HD ARGENTINA
+http://uruguayiptv.com:25461/leandro1/leandro123/77726?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Sport",FOX NFL
+http://146.59.145.53:80/anna/anna/99397?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Sport",Sky Sport Italia NBA HD
+http://146.59.145.53:80/anna/anna/99341?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",Fox Sports Brasil HD
+http://boxiptv.club:8080/vagner/123456/145482?checkedby:hlscat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Sport",FS1
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/870?checkedby:hlscat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Sport",FS2
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/871?checkedby:hlscat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Sport",NBC Sports 1
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/872?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",NBC Sports 2
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14403?checkedby:hlscat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Sport",EUROSPORT 1
+http://wweraw.ddns.net:8080/live:mtg_2406_1010101/live:mtg_2406_1010101/8233?checkedby:hlscat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Sport",EUROSPORT 2
+http://wweraw.ddns.net:8080/live:mtg_2406_1010101/live:mtg_2406_1010101/8232?checkedby:hlscat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Sport",Eir.Sport1
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/535?checkedby:hlscat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Sport",Eleven.Sports-Network
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/873?checkedby:hlscat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Sport",Eleven.Sports2
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/5375?checkedby:hlscat.com
 
 *** DEPORTES INTERNACIONALES ***
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",beIN Sports USA(tr)(720)
