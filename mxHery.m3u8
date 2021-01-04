@@ -226,7 +226,7 @@ http://srregio.net/Sr_Regio151120/tp.php?c=2157&p=3&k=srregio&f=.m3u8
 http://srregio.net/Sr_Regio151120/tp.php?c=2564&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1 group-title="Deportes", FUEL TV HD 
 http://srregio.net/Sr_Regio151120/tp.php?c=2587&p=3&k=srregio&f=.m3u8
-<<<<<<< HEAD
+
 #EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Deportes",Sky.Sport.NBA
 http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/148?checkedby:hlscat.com
 #EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Deportes",NBA TV TR
@@ -238,19 +238,6 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Deportes",NBA TV HD US
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6355?checkedby:hlscat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Deportes",NBA TV
-=======
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Sport",Sky.Sport.NBA
-http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/148?checkedby:hlscat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",NBA TV TR
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/626988?checkedby:hlscat.com
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Sport",NBA TV PT
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8799?checkedby:hlscat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",NBA HD (ENG)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/600?checkedby:hlscat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",NBA TV HD US
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6355?checkedby:hlscat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",NBA TV
->>>>>>> 2929e3af0561cff67b3bcf870a958fc72df94e17
 http://yourdnshere.xyz:83/live/trevorparker/8177168823/386308.ts?checkedby:hlscat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Deportes",NBA TV(M)(720)
 http://212.102.60.121:8000/calem7/4BY4CSaMUW/1585?checkedby:hlscat.com
