@@ -165,15 +165,15 @@ http://srregio.net/Sr_Regio151120/tp.php?c=2113&p=3&k=srregio&f=.m3u8
 
 *** DEPORTES ***
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Deportes",Bein en Español HD
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/487?checkedby:hlscat.com
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/487
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Deportes",bein Sports US Opción 1
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13759?checkedby:iptvcat.com
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13759
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Deportes",bein Sports US Opción 2
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/488?checkedby:hlscat.com
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/488
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Deportes",bein Sports US Opción 3
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4902?checkedby:iptvcat.com
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4902
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Deportes",bein Sports US Opción 4
-http://212.102.60.121:8000/calem7/4BY4CSaMUW/59978?checkedby:hlscat.com
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/59978
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="US" tvg-url="" group-title="Deportes",Fox Sport News HD 1
 http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sport Xtra (CA)" tvg-logo="https://i.imgur.com/pVU9nrc.png" group-title="Deportes",Bein Sport Xtra (CA)
@@ -187,7 +187,7 @@ https://directes-tv-int.ccma.cat/int/ngrp:es3_web/playlist.m3u8
 #EXTINF:-1 tvg-name="CBS Sports HQ" tvg-logo="https://images.pluto.tv/channels/5e9f2c05172a0f0007db4786/colorLogoPNG.png" group-title="Deportes",CBS Sports HQ
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e9f2c05172a0f0007db4786/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=702&deviceId=5e9f2c05172a0f0007db4786&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Deportes",Fox Sports North HD US
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14355?checkedby:hlscat.com
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14355
 #EXTINF:-1 tvg-name="FOX Sports" tvg-logo="https://images.pluto.tv/channels/5a74b8e1e22a61737979c6bf/colorLogoPNG.png" group-title="Deportes",FOX Sports
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=705&deviceId=5a74b8e1e22a61737979c6bf&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-name="Pluto TV Sports" tvg-logo="https://images.pluto.tv/channels/56340779a738201b4ccfeac9/colorLogoPNG.png" group-title="Deportes",Pluto TV Sports
@@ -235,51 +235,51 @@ http://srregio.net/Sr_Regio151120/tp.php?c=2564&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 group-title="Deportes", FUEL TV HD 
 http://srregio.net/Sr_Regio151120/tp.php?c=2587&p=3&k=srregio&f=.m3u8
 #EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Deportes",Sky.Sport.NBA
-http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/148?checkedby:hlscat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Deportes",NBA TV TR
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/626988?checkedby:hlscat.com
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Deportes",NBA TV PT
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8799?checkedby:hlscat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Deportes",NBA HD (ENG)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/600?checkedby:hlscat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Deportes",NBA TV HD US
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6355?checkedby:hlscat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Deportes",NBA TV
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/386308.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Deportes",NBA TV(M)(720)
-http://212.102.60.121:8000/calem7/4BY4CSaMUW/1585?checkedby:hlscat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Deportes",Espn (TV)(720)
-http://212.102.60.121:8000/calem7/4BY4CSaMUW/53832?checkedby:hlscat.com
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/148
+#EXTINF:0 tvg-country="TR" tvg-logo="https://1000logos.net/wp-content/uploads/2017/04/Logo-NBA.png" group-title="Deportes",NBA TV TR
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/626988
+#EXTINF:0 tvg-country="PL" tvg-logo="https://1000logos.net/wp-content/uploads/2017/04/Logo-NBA.png" group-title="Deportes",NBA TV PT
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8799
+#EXTINF:0 tvg-country="US" tvg-logo="https://1000logos.net/wp-content/uploads/2017/04/Logo-NBA.png" group-title="Deportes",NBA HD (ENG)
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/600
+#EXTINF:0 tvg-country="US" tvg-logo="https://1000logos.net/wp-content/uploads/2017/04/Logo-NBA.png" group-title="Deportes",NBA TV HD US
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6355
+#EXTINF:0 tvg-country="US" tvg-logo="https://1000logos.net/wp-content/uploads/2017/04/Logo-NBA.png" group-title="Deportes",NBA TV
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/386308.ts
+#EXTINF:0 tvg-country="US" tvg-logo="https://1000logos.net/wp-content/uploads/2017/04/Logo-NBA.png" group-title="Deportes",NBA TV(M)(720)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/1585
+#EXTINF:0 tvg-country="US" tvg-logo="https://1000logos.net/wp-content/uploads/2017/04/Logo-NBA.png" group-title="Deportes",Espn (TV)(720)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/53832
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Deportes",ESPN 2 HD (ENG)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/733?checkedby:hlscat.com
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/733
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Deportes",DEPORTES: MEX Espn 3 (M)(SD)
-http://212.102.60.121:8000/calem7/4BY4CSaMUW/26771?checkedby:hlscat.com
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/26771
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Deportes",ESPN Deportes
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1124?checkedby:hlscat.com
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1124
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Deportes",ESPN 2 CHILE
-http://uruguayiptv.com:25461/leandro1/leandro123/79963?checkedby:hlscat.com
+http://uruguayiptv.com:25461/leandro1/leandro123/79963
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Deportes",ESPN 3 HD ARGENTINA
-http://uruguayiptv.com:25461/leandro1/leandro123/454?checkedby:hlscat.com
+http://uruguayiptv.com:25461/leandro1/leandro123/454
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Deportes",ESPN HD ARGENTINA
-http://uruguayiptv.com:25461/leandro1/leandro123/77726?checkedby:hlscat.com
+http://uruguayiptv.com:25461/leandro1/leandro123/77726
 #EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Deportes",FS1
-http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/870?checkedby:hlscat.com
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/870
 #EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Deportes",FS2
-http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/871?checkedby:hlscat.com
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/871
 #EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Deportes",NBC Sports 1
-http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/872?checkedby:hlscat.com
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/872
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Deportes",NBC Sports 2
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14403?checkedby:hlscat.com
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14403
 #EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Deportes",EUROSPORT 1
-http://wweraw.ddns.net:8080/live:mtg_2406_1010101/live:mtg_2406_1010101/8233?checkedby:hlscat.com
+http://wweraw.ddns.net:8080/live:mtg_2406_1010101/live:mtg_2406_1010101/8233
 #EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Deportes",EUROSPORT 2
-http://wweraw.ddns.net:8080/live:mtg_2406_1010101/live:mtg_2406_1010101/8232?checkedby:hlscat.com
+http://wweraw.ddns.net:8080/live:mtg_2406_1010101/live:mtg_2406_1010101/8232
 #EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Deportes",Eir.Sport1
-http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/535?checkedby:hlscat.com
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/535
 #EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Deportes",Eleven.Sports-Network
-http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/873?checkedby:hlscat.com
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/873
 #EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Deportes",Eleven.Sports2
-http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/5375?checkedby:hlscat.com
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/5375
 #EXTINF:0 group-title="Deportes",Halow Sport HD
 http://echotv.online:8080/HalowTV/FSyzHfEhvb/137
 
