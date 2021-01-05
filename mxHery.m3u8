@@ -164,10 +164,16 @@ http://srregio.net/Sr_Regio151120/tp.php?c=1842&p=3&k=srregio&f=.m3u8
 http://srregio.net/Sr_Regio151120/tp.php?c=2113&p=3&k=srregio&f=.m3u8 
 
 *** DEPORTES ***
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Deportes",BEIN ESPANIOL HD
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Deportes",Bein en Español HD
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/487?checkedby:hlscat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Deportes",BEIN SPORTS ENG HD
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Deportes",bein Sports US Opción 1
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13759?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Deportes",bein Sports US Opción 2
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/488?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Deportes",bein Sports US Opción 3
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4902?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Deportes",bein Sports US Opción 4
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/59978?checkedby:hlscat.com
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="US" tvg-url="" group-title="Deportes",Fox Sport News HD 1
 http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sport Xtra (CA)" tvg-logo="https://i.imgur.com/pVU9nrc.png" group-title="Deportes",Bein Sport Xtra (CA)
@@ -226,7 +232,6 @@ http://srregio.net/Sr_Regio151120/tp.php?c=2157&p=3&k=srregio&f=.m3u8
 http://srregio.net/Sr_Regio151120/tp.php?c=2564&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1 group-title="Deportes", FUEL TV HD 
 http://srregio.net/Sr_Regio151120/tp.php?c=2587&p=3&k=srregio&f=.m3u8
-
 #EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Deportes",Sky.Sport.NBA
 http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/148?checkedby:hlscat.com
 #EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Deportes",NBA TV TR
@@ -273,8 +278,6 @@ http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/535?checkedby:hlscat.com
 http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/873?checkedby:hlscat.com
 #EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Deportes",Eleven.Sports2
 http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/5375?checkedby:hlscat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Deportes",beIN Sports USA(tr)(720)
-http://212.102.60.121:8000/calem7/4BY4CSaMUW/59978?checkedby:hlscat.com
 #EXTINF:0 group-title="Deportes",Halow Sport HD
 http://echotv.online:8080/HalowTV/FSyzHfEhvb/137
 
