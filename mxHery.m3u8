@@ -1,35 +1,35 @@
 #EXTM3U
 *** INFANTILES ***
 #EXTINF:-1 group-title="Infantiles", TOONCAST
-http://srregio.net/Sr_Regio151120/tp.php?c=108&p=3&k=srregio&f=.m3u8  
+http://srregio.net/Sr_Regio151120/tp.php?c=108&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 group-title="Infantiles", DISCOVERY KIDS
-http://srregio.net/Sr_Regio151120/tp.php?c=109&p=3&k=srregio&f=.m3u8  
+http://srregio.net/Sr_Regio151120/tp.php?c=109&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 group-title="Infantiles", NICK
-http://srregio.net/Sr_Regio151120/tp.php?c=110&p=3&k=srregio&f=.m3u8  
+http://srregio.net/Sr_Regio151120/tp.php?c=110&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 group-title="Infantiles", DISNEY XD
-http://srregio.net/Sr_Regio151120/tp.php?c=111&p=3&k=srregio&f=.m3u8  
+http://srregio.net/Sr_Regio151120/tp.php?c=111&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 group-title="Infantiles", CARTOON NETWORK
-http://srregio.net/Sr_Regio151120/tp.php?c=112&p=3&k=srregio&f=.m3u8  
+http://srregio.net/Sr_Regio151120/tp.php?c=112&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 group-title="Infantiles", DISNEY CHANNEL
-http://srregio.net/Sr_Regio151120/tp.php?c=113&p=3&k=srregio&f=.m3u8  
+http://srregio.net/Sr_Regio151120/tp.php?c=113&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 group-title="Infantiles", BOOMERANG
-http://srregio.net/Sr_Regio151120/tp.php?c=115&p=3&k=srregio&f=.m3u8 
+http://srregio.net/Sr_Regio151120/tp.php?c=115&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 group-title="Infantiles", BABY TV 
-http://srregio.net/Sr_Regio151120/tp.php?c=116&p=3&k=srregio&f=.m3u8  
+http://srregio.net/Sr_Regio151120/tp.php?c=116&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 group-title="Infantiles", NICK JR
-http://srregio.net/Sr_Regio151120/tp.php?c=117&p=3&k=srregio&f=.m3u8  
+http://srregio.net/Sr_Regio151120/tp.php?c=117&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 group-title="Infantiles", DISNEY JR
-http://srregio.net/Sr_Regio151120/tp.php?c=118&p=3&k=srregio&f=.m3u8 
+http://srregio.net/Sr_Regio151120/tp.php?c=118&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 group-title="Infantiles", NICKTOONS SD 
-http://srregio.net/Sr_Regio151120/tp.php?c=1708&p=3&k=srregio&f=.m3u8  
+http://srregio.net/Sr_Regio151120/tp.php?c=1708&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 group-title="Infantiles", BABY FIRST
-http://srregio.net/Sr_Regio151120/tp.php?c=1984&p=3&k=srregio&f=.m3u8  
+http://srregio.net/Sr_Regio151120/tp.php?c=1984&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 group-title="Infantiles", NICK 2  
 http://srregio.net/Sr_Regio151120/tp.php?c=2147&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 tvg-name="Nick Jr. Latino" tvg-logo="https://images.pluto.tv/channels/5d8d0ec7b0f7015fbe0a3bf7/colorLogoPNG.png" group-title="Infantiles",Nick Jr. Latino
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d0ec7b0f7015fbe0a3bf7/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=998&deviceId=5d8d0ec7b0f7015fbe0a3bf7&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 group-title="Infantiles", NAT GEO KIDS  
-http://srregio.net/Sr_Regio151120/tp.php?c=2373&p=3&k=srregio&f=.m3u8 
+http://srregio.net/Sr_Regio151120/tp.php?c=2373&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 group-title="Infantiles", BIT ME  
 http://srregio.net/Sr_Regio151120/tp.php?c=2591&p=3&k=srregio&f=.m3u8
 
@@ -41,137 +41,141 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d164d92e97a5e10
 #EXTINF:-1 tvg-name="Pluto TV Cine Estelar" tvg-logo="https://images.pluto.tv/channels/5cf968040ab7d8f181e6a68b/colorLogoPNG.png" group-title="Peliculas",Pluto TV Cine Estelar
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=901&deviceId=5cf968040ab7d8f181e6a68b&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 group-title="Peliculas", A3CINE 
-http://srregio.net/Sr_Regio151120/tp.php?c=3112&p=3&k=srregio&f=.m3u8 
+http://srregio.net/Sr_Regio151120/tp.php?c=3112&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 group-title="Peliculas", TBS SD  
-http://srregio.net/Sr_Regio151120/tp.php?c=81&p=3&k=srregio&f=.m3u8 
+http://srregio.net/Sr_Regio151120/tp.php?c=81&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 group-title="Peliculas", DE PELICULA + 
-http://srregio.net/Sr_Regio151120/tp.php?c=121&p=3&k=srregio&f=.m3u8  
+http://srregio.net/Sr_Regio151120/tp.php?c=121&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 group-title="Peliculas", GOLDEN +
-http://srregio.net/Sr_Regio151120/tp.php?c=122&p=3&k=srregio&f=.m3u8  
+http://srregio.net/Sr_Regio151120/tp.php?c=122&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 group-title="Peliculas", GOLDEN
-http://srregio.net/Sr_Regio151120/tp.php?c=123&p=3&k=srregio&f=.m3u8  
+http://srregio.net/Sr_Regio151120/tp.php?c=123&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 group-title="Peliculas", GOLDEN EDGE
-http://srregio.net/Sr_Regio151120/tp.php?c=124&p=3&k=srregio&f=.m3u8 
+http://srregio.net/Sr_Regio151120/tp.php?c=124&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 group-title="Peliculas", TNT 
-http://srregio.net/Sr_Regio151120/tp.php?c=126&p=3&k=srregio&f=.m3u8  
+http://srregio.net/Sr_Regio151120/tp.php?c=126&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 group-title="Peliculas", TCM
-http://srregio.net/Sr_Regio151120/tp.php?c=128&p=3&k=srregio&f=.m3u8  
+http://srregio.net/Sr_Regio151120/tp.php?c=128&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 group-title="Peliculas", SPACE
-http://srregio.net/Sr_Regio151120/tp.php?c=129&p=3&k=srregio&f=.m3u8  
+http://srregio.net/Sr_Regio151120/tp.php?c=129&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 group-title="Peliculas", AMC 
-http://srregio.net/Sr_Regio151120/tp.php?c=131&p=3&k=srregio&f=.m3u8  
+http://srregio.net/Sr_Regio151120/tp.php?c=131&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 group-title="Peliculas", STUDIO UNIVERSAL
-http://srregio.net/Sr_Regio151120/tp.php?c=132&p=3&k=srregio&f=.m3u8  
+http://srregio.net/Sr_Regio151120/tp.php?c=132&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 group-title="Peliculas", I SAT  
-http://srregio.net/Sr_Regio151120/tp.php?c=135&p=3&k=srregio&f=.m3u8  
+http://srregio.net/Sr_Regio151120/tp.php?c=135&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 group-title="Peliculas", EUROPA CHANNEL 
-http://srregio.net/Sr_Regio151120/tp.php?c=136&p=3&k=srregio&f=.m3u8  
+http://srregio.net/Sr_Regio151120/tp.php?c=136&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 group-title="Peliculas", FILMS & ARTS
-http://srregio.net/Sr_Regio151120/tp.php?c=137&p=3&k=srregio&f=.m3u8  
+http://srregio.net/Sr_Regio151120/tp.php?c=137&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 group-title="Peliculas", FXM
-http://srregio.net/Sr_Regio151120/tp.php?c=138&p=3&k=srregio&f=.m3u8  
+http://srregio.net/Sr_Regio151120/tp.php?c=138&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 group-title="Peliculas", FXM SD 
 http://srregio.net/Sr_Regio151120/tp.php?c=332&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 group-title="Peliculas", FOX SERIES
-http://srregio.net/Sr_Regio151120/tp.php?c=139&p=3&k=srregio&f=.m3u8  
+http://srregio.net/Sr_Regio151120/tp.php?c=139&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 group-title="Peliculas", MORBIDO
-http://srregio.net/Sr_Regio151120/tp.php?c=140&p=3&k=srregio&f=.m3u8  
+http://srregio.net/Sr_Regio151120/tp.php?c=140&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 group-title="Peliculas", FOX MOVIES 
-http://srregio.net/Sr_Regio151120/tp.php?c=146&p=3&k=srregio&f=.m3u8  
+http://srregio.net/Sr_Regio151120/tp.php?c=146&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 group-title="Peliculas", CINECANAL
-http://srregio.net/Sr_Regio151120/tp.php?c=149&p=3&k=srregio&f=.m3u8  
+http://srregio.net/Sr_Regio151120/tp.php?c=149&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 group-title="Peliculas", CINEMAX 
 http://srregio.net/Sr_Regio151120/tp.php?c=158&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 group-title="Peliculas", AMC  
-http://srregio.net/Sr_Regio151120/tp.php?c=328&p=3&k=srregio&f=.m3u8  
+http://srregio.net/Sr_Regio151120/tp.php?c=328&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 group-title="Peliculas", DE PELICULA SD
-http://srregio.net/Sr_Regio151120/tp.php?c=335&p=3&k=srregio&f=.m3u8  
+http://srregio.net/Sr_Regio151120/tp.php?c=335&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 group-title="Peliculas", FOX ACTION
-http://srregio.net/Sr_Regio151120/tp.php?c=336&p=3&k=srregio&f=.m3u8 
+http://srregio.net/Sr_Regio151120/tp.php?c=336&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 group-title="Peliculas", PARAMOUNT CHANNEL 
-http://srregio.net/Sr_Regio151120/tp.php?c=1726&p=3&k=srregio&f=.m3u8  
+http://srregio.net/Sr_Regio151120/tp.php?c=1726&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 group-title="Peliculas", FOX CINEMA SD
-http://srregio.net/Sr_Regio151120/tp.php?c=1729&p=3&k=srregio&f=.m3u8  
+http://srregio.net/Sr_Regio151120/tp.php?c=1729&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 group-title="Peliculas", FOX CLASSICS SD
 http://srregio.net/Sr_Regio151120/tp.php?c=1732&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 group-title="Peliculas", AZ CINEMA 
-http://srregio.net/Sr_Regio151120/tp.php?c=1787&p=3&k=srregio&f=.m3u8 
+http://srregio.net/Sr_Regio151120/tp.php?c=1787&p=3&k=srregio&f=.m3u8
 
 *** ENTRETENIMIENTO ***
 #EXTINF:-1 group-title="Entretenimiento", TELEMUNDO INTERNACIONAL HD
-http://srregio.net/Sr_Regio151120/tp.php?c=85&p=3&k=srregio&f=.m3u8  
+http://srregio.net/Sr_Regio151120/tp.php?c=85&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 group-title="Entretenimiento", FOX  
 http://srregio.net/Sr_Regio151120/tp.php?c=46&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 group-title="Entretenimiento", SONY  
-http://srregio.net/Sr_Regio151120/tp.php?c=48&p=3&k=srregio&f=.m3u8  
+http://srregio.net/Sr_Regio151120/tp.php?c=48&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 group-title="Entretenimiento", WARNER  
-http://srregio.net/Sr_Regio151120/tp.php?c=52&p=3&k=srregio&f=.m3u8  
+http://srregio.net/Sr_Regio151120/tp.php?c=52&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 group-title="Entretenimiento", E!
-http://srregio.net/Sr_Regio151120/tp.php?c=55&p=3&k=srregio&f=.m3u8  
+http://srregio.net/Sr_Regio151120/tp.php?c=55&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 group-title="Entretenimiento", UNIVERSAL
-http://srregio.net/Sr_Regio151120/tp.php?c=57&p=3&k=srregio&f=.m3u8  
+http://srregio.net/Sr_Regio151120/tp.php?c=57&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 group-title="Entretenimiento", SYFY
-http://srregio.net/Sr_Regio151120/tp.php?c=59&p=3&k=srregio&f=.m3u8  
+http://srregio.net/Sr_Regio151120/tp.php?c=59&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 group-title="Entretenimiento", FX
-http://srregio.net/Sr_Regio151120/tp.php?c=60&p=3&k=srregio&f=.m3u8  
+http://srregio.net/Sr_Regio151120/tp.php?c=60&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 group-title="Entretenimiento", A&E
-http://srregio.net/Sr_Regio151120/tp.php?c=62&p=3&k=srregio&f=.m3u8  
+http://srregio.net/Sr_Regio151120/tp.php?c=62&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 group-title="Entretenimiento", AXN
-http://srregio.net/Sr_Regio151120/tp.php?c=64&p=3&k=srregio&f=.m3u8  
+http://srregio.net/Sr_Regio151120/tp.php?c=64&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 group-title="Entretenimiento", UNICABLE SD
-http://srregio.net/Sr_Regio151120/tp.php?c=66&p=3&k=srregio&f=.m3u8  
+http://srregio.net/Sr_Regio151120/tp.php?c=66&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 group-title="Entretenimiento", SUNDANCE TV
-http://srregio.net/Sr_Regio151120/tp.php?c=69&p=3&k=srregio&f=.m3u8 
+http://srregio.net/Sr_Regio151120/tp.php?c=69&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 group-title="Entretenimiento", TNT SERIES
-http://srregio.net/Sr_Regio151120/tp.php?c=71&p=3&k=srregio&f=.m3u8 
+http://srregio.net/Sr_Regio151120/tp.php?c=71&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 group-title="Entretenimiento", GLITZ
-http://srregio.net/Sr_Regio151120/tp.php?c=76&p=3&k=srregio&f=.m3u8 
+http://srregio.net/Sr_Regio151120/tp.php?c=76&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 group-title="Entretenimiento", GOURMET 
 http://srregio.net/Sr_Regio151120/tp.php?c=74&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 group-title="Entretenimiento", FOX LIFE
-http://srregio.net/Sr_Regio151120/tp.php?c=77&p=3&k=srregio&f=.m3u8  
+http://srregio.net/Sr_Regio151120/tp.php?c=77&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 group-title="Entretenimiento", DISTRITO COMEDIA SD
-http://srregio.net/Sr_Regio151120/tp.php?c=78&p=3&k=srregio&f=.m3u8  
+http://srregio.net/Sr_Regio151120/tp.php?c=78&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 group-title="Entretenimiento", TRUTV
-http://srregio.net/Sr_Regio151120/tp.php?c=79&p=3&k=srregio&f=.m3u8 
+http://srregio.net/Sr_Regio151120/tp.php?c=79&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 group-title="Entretenimiento", TL NOVELAS SD
-http://srregio.net/Sr_Regio151120/tp.php?c=83&p=3&k=srregio&f=.m3u8  
+http://srregio.net/Sr_Regio151120/tp.php?c=83&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 group-title="Entretenimiento", LIFETIME 
 http://srregio.net/Sr_Regio151120/tp.php?c=94&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 group-title="Entretenimiento", ANTENA 3
-http://srregio.net/Sr_Regio151120/tp.php?c=199&p=3&k=srregio&f=.m3u8  
+http://srregio.net/Sr_Regio151120/tp.php?c=199&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 group-title="Entretenimiento", FOX HD 
 http://srregio.net/Sr_Regio151120/tp.php?c=201&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 group-title="Entretenimiento", WARNER HD 
-http://srregio.net/Sr_Regio151120/tp.php?c=205&p=3&k=srregio&f=.m3u8  
+http://srregio.net/Sr_Regio151120/tp.php?c=205&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 group-title="Entretenimiento", UNIVERSAL HD
-http://srregio.net/Sr_Regio151120/tp.php?c=207&p=3&k=srregio&f=.m3u8  
+http://srregio.net/Sr_Regio151120/tp.php?c=207&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 group-title="Entretenimiento", FX HD
 http://srregio.net/Sr_Regio151120/tp.php?c=209&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 group-title="Entretenimiento", TRUTV HD
-http://srregio.net/Sr_Regio151120/tp.php?c=215&p=3&k=srregio&f=.m3u8  
+http://srregio.net/Sr_Regio151120/tp.php?c=215&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 group-title="Entretenimiento", HOLA TV HD
-http://srregio.net/Sr_Regio151120/tp.php?c=219&p=3&k=srregio&f=.m3u8 
+http://srregio.net/Sr_Regio151120/tp.php?c=219&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 group-title="Entretenimiento", COMEDY CENTRAL
-http://srregio.net/Sr_Regio151120/tp.php?c=340&p=3&k=srregio&f=.m3u8  
+http://srregio.net/Sr_Regio151120/tp.php?c=340&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 group-title="Entretenimiento", COMEDY CENTRAL SD
-http://srregio.net/Sr_Regio151120/tp.php?c=341&p=3&k=srregio&f=.m3u8 
+http://srregio.net/Sr_Regio151120/tp.php?c=341&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 group-title="Entretenimiento", UNICABLE
-http://srregio.net/Sr_Regio151120/tp.php?c=1499&p=3&k=srregio&f=.m3u8  
+http://srregio.net/Sr_Regio151120/tp.php?c=1499&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 group-title="Entretenimiento", MAS CHIC
-http://srregio.net/Sr_Regio151120/tp.php?c=1842&p=3&k=srregio&f=.m3u8  
+http://srregio.net/Sr_Regio151120/tp.php?c=1842&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 group-title="Entretenimiento", A3SERIES
-http://srregio.net/Sr_Regio151120/tp.php?c=2113&p=3&k=srregio&f=.m3u8 
+http://srregio.net/Sr_Regio151120/tp.php?c=2113&p=3&k=srregio&f=.m3u8
 
 *** DEPORTES ***
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport Xtra (CA)" tvg-logo="https://i.imgur.com/pVU9nrc.png" group-title="Deportes",Bein Sport Xtra (CA)
+https://bein-xtra-samsung-canada.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS XTRA" tvg-logo="https://images.pluto.tv/channels/5df975e2b27cf5000921c102/colorLogoPNG.png" group-title="Deportes",beIN SPORTS XTRA
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=740&deviceId=5df975e2b27cf5000921c102&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Deportes",bein Sports España 1
-http://super1.ideaiptv.com:2052/bandook/3243243/26737?checkedby:hlscat.com
+http://super1.ideaiptv.com:2052/bandook/3243243/26737
 #EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Deportes",bein Sports España 2
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13540?checkedby:hlscat.com
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13540
 #EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Deportes",bein Sports España 3
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7248?checkedby:hlscat.com
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7248
 #EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Deportes",bein Sports España 4
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8745?checkedby:hlscat.com
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8745
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Deportes",bein Sports US Opción 1
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13759
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Deportes",bein Sports US Opción 2
@@ -180,66 +184,6 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4902
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Deportes",bein Sports US Opción 4
 http://212.102.60.121:8000/calem7/4BY4CSaMUW/59978
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="US" tvg-url="" group-title="Deportes",Fox Sport News HD 1
-http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sport Xtra (CA)" tvg-logo="https://i.imgur.com/pVU9nrc.png" group-title="Deportes",Bein Sport Xtra (CA)
-https://bein-xtra-samsung-canada.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="beIN SPORTS XTRA" tvg-logo="https://images.pluto.tv/channels/5df975e2b27cf5000921c102/colorLogoPNG.png" group-title="Deportes",beIN SPORTS XTRA
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=740&deviceId=5df975e2b27cf5000921c102&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 tvg-id="" tvg-name="FTF (CA)" tvg-logo="https://i.imgur.com/IRWahfD.png" group-title="Deportes",FTF (CA)
-https://elevensports-samsunguk-ca.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="E3.TV" tvg-name="Esport 3" tvg-id="" tvg-logo="http://cdn.teleon.tv/logo/es-esport-3.jpg" group-title="Deportes",Esport 3
-https://directes-tv-int.ccma.cat/int/ngrp:es3_web/playlist.m3u8
-#EXTINF:-1 tvg-name="CBS Sports HQ" tvg-logo="https://images.pluto.tv/channels/5e9f2c05172a0f0007db4786/colorLogoPNG.png" group-title="Deportes",CBS Sports HQ
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e9f2c05172a0f0007db4786/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=702&deviceId=5e9f2c05172a0f0007db4786&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Deportes",Fox Sports North HD US
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14355
-#EXTINF:-1 tvg-name="FOX Sports" tvg-logo="https://images.pluto.tv/channels/5a74b8e1e22a61737979c6bf/colorLogoPNG.png" group-title="Deportes",FOX Sports
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=705&deviceId=5a74b8e1e22a61737979c6bf&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 tvg-name="Pluto TV Sports" tvg-logo="https://images.pluto.tv/channels/56340779a738201b4ccfeac9/colorLogoPNG.png" group-title="Deportes",Pluto TV Sports
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56340779a738201b4ccfeac9/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=725&deviceId=56340779a738201b4ccfeac9&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 tvg-name="Sports News" tvg-logo="https://i.imgur.com/DWcfDc5.png" group-title="Deportes",Sports News
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf221fad5eeee0f5a40941c/playlist.m3u8
-#EXTINF:-1 group-title="Deportes", ESPN + 
-http://srregio.net/Sr_Regio151120/tp.php?c=167&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1 group-title="Deportes", ESPN 
-http://srregio.net/Sr_Regio151120/tp.php?c=168&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 group-title="Deportes", ESPN 2
-http://srregio.net/Sr_Regio151120/tp.php?c=169&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 group-title="Deportes", FOX SPORTS
-http://srregio.net/Sr_Regio151120/tp.php?c=170&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 group-title="Deportes", FOX SPORTS 2
-http://srregio.net/Sr_Regio151120/tp.php?c=172&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 group-title="Deportes", TUDN
-http://srregio.net/Sr_Regio151120/tp.php?c=174&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 group-title="Deportes", FOX SPORTS 3 
-http://srregio.net/Sr_Regio151120/tp.php?c=178&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 tvg-id="tv.fox.sports.news" tvg-name="Fox Sports News EU" tvg-language="English" tvg-logo="https://i.imgur.com/Kxem8ae.jpg" tvg-country="AU" tvg-url="http://i.mjh.nz/nzau/epg.xml.gz" group-title="Deportes",Fox Sports News
-https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="US" tvg-url="" group-title="Deportes",FOX Sport HD 1
-https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Red Bull TV" tvg-language="English" tvg-logo="https://i.imgur.com/7NeBmWX.jpg" tvg-country="INT" tvg-url="" group-title="Deportes",Red Bull TV
-https://dms.redbull.tv/v3/linear-borb/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXRlZ29yeSI6InBlcnNvbmFsX2NvbXB1dGVyIiwiY291bnRyeV9jb2RlIjoidXMiLCJleHBpcmVzIjoiMjAxNy0wOS0xNlQxNzo0NjowMy45NjM0NjI4NDJaIiwib3NfZmFtaWx5IjoiaHR0cCIsInJlbW90ZV9pcCI6IjEwLjE1Ny4xMTIuMTQ4IiwidWEiOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xMl81KSBBcHBsZVdlYktpdC82MDMuMi40IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xMC4xLjEgU2FmYXJpLzYwMy4yLjQiLCJ1aWQiOiJkOGZiZWYzMC0yZDhhLTQwYTUtOGNjNy0wNzgxNGJhMTliNzMifQ.Q_38FNpW3so5yrA5FQt9qBuix3dTulKpb6uQ0dRjrtY/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://static1.squarespace.com/static/5a6f534f017db2d628751be1/t/5a6f5557652deada67290f54" tvg-country="US" tvg-url="" group-title="Deportes",Edge Sports
-https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
-#EXTINF:-1 group-title="Deportes", AYM SPORTS
-http://srregio.net/Sr_Regio151120/tp.php?c=180&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1 group-title="Deportes", ESPN 3 
-http://srregio.net/Sr_Regio151120/tp.php?c=345&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 group-title="Deportes", TUDN HD (2)
-http://srregio.net/Sr_Regio151120/tp.php?c=1049&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1 group-title="Deportes", ADRENALINA SPORTS HD
-http://srregio.net/Sr_Regio151120/tp.php?c=1799&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 group-title="Deportes", LAS
-http://srregio.net/Sr_Regio151120/tp.php?c=2089&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 group-title="Deportes", HAVOC
-http://srregio.net/Sr_Regio151120/tp.php?c=2148&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 group-title="Deportes", TVC DEPORTES
-http://srregio.net/Sr_Regio151120/tp.php?c=2157&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 group-title="Deportes", CLARO SPORTS HD  
-http://srregio.net/Sr_Regio151120/tp.php?c=2564&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 group-title="Deportes", FUEL TV HD 
-http://srregio.net/Sr_Regio151120/tp.php?c=2587&p=3&k=srregio&f=.m3u8
 #EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Deportes",Sky.Sport.NBA
 http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/148
 #EXTINF:0 tvg-country="TR" tvg-logo="https://1000logos.net/wp-content/uploads/2017/04/Logo-NBA.png" group-title="Deportes",NBA TV TR
@@ -254,6 +198,34 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6355
 http://yourdnshere.xyz:83/live/trevorparker/8177168823/386308.ts
 #EXTINF:0 tvg-country="US" tvg-logo="https://1000logos.net/wp-content/uploads/2017/04/Logo-NBA.png" group-title="Deportes",NBA TV(M)(720)
 http://212.102.60.121:8000/calem7/4BY4CSaMUW/1585
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Deportes",NBC Sports 1
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/872
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Deportes",NBC Sports 2
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14403
+#EXTINF:-1 group-title="Deportes", FOX SPORTS
+http://srregio.net/Sr_Regio151120/tp.php?c=170&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 group-title="Deportes", FOX SPORTS 2
+http://srregio.net/Sr_Regio151120/tp.php?c=172&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 group-title="Deportes", FOX SPORTS 3 
+http://srregio.net/Sr_Regio151120/tp.php?c=178&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Deportes",Fox Sports North HD US
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14355
+#EXTINF:-1 tvg-name="FOX Sports" tvg-logo="https://images.pluto.tv/channels/5a74b8e1e22a61737979c6bf/colorLogoPNG.png" group-title="Deportes",FOX Sports
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=705&deviceId=5a74b8e1e22a61737979c6bf&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="US" tvg-url="" group-title="Deportes",Fox Sport News HD 1
+http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
+#EXTINF:-1 tvg-id="tv.fox.sports.news" tvg-name="Fox Sports News EU" tvg-language="English" tvg-logo="https://i.imgur.com/Kxem8ae.jpg" tvg-country="AU" tvg-url="http://i.mjh.nz/nzau/epg.xml.gz" group-title="Deportes",Fox Sports News
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="US" tvg-url="" group-title="Deportes",FOX Sport HD 1
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
+#EXTINF:-1 group-title="Deportes", ESPN + 
+http://srregio.net/Sr_Regio151120/tp.php?c=167&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 group-title="Deportes", ESPN 
+http://srregio.net/Sr_Regio151120/tp.php?c=168&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 group-title="Deportes", ESPN 2
+http://srregio.net/Sr_Regio151120/tp.php?c=169&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 group-title="Deportes", ESPN 3 
+http://srregio.net/Sr_Regio151120/tp.php?c=345&p=3&k=srregio&f=.m3u8
 #EXTINF:0 tvg-country="US" tvg-logo="https://1000logos.net/wp-content/uploads/2017/04/Logo-NBA.png" group-title="Deportes",Espn (TV)(720)
 http://212.102.60.121:8000/calem7/4BY4CSaMUW/53832
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Deportes",ESPN 2 HD (ENG)
@@ -268,18 +240,18 @@ http://uruguayiptv.com:25461/leandro1/leandro123/79963
 http://uruguayiptv.com:25461/leandro1/leandro123/454
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Deportes",ESPN HD ARGENTINA
 http://uruguayiptv.com:25461/leandro1/leandro123/77726
+#EXTINF:-1 group-title="Deportes", TUDN
+http://srregio.net/Sr_Regio151120/tp.php?c=174&p=3&k=srregio&f=.m3u8
 #EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Deportes",FS1
 http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/870
 #EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Deportes",FS2
 http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/871
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Deportes",NBC Sports 1
-http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/872
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Deportes",NBC Sports 2
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14403
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Deportes",EUROSPORT 1
-http://wweraw.ddns.net:8080/live:mtg_2406_1010101/live:mtg_2406_1010101/8233
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Deportes",EUROSPORT 2
-http://wweraw.ddns.net:8080/live:mtg_2406_1010101/live:mtg_2406_1010101/8232
+#EXTINF:-1 tvg-id="" tvg-name="FTF (CA)" tvg-logo="https://i.imgur.com/IRWahfD.png" group-title="Deportes",FTF (CA)
+https://elevensports-samsunguk-ca.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="E3.TV" tvg-name="Esport 3" tvg-id="" tvg-logo="http://cdn.teleon.tv/logo/es-esport-3.jpg" group-title="Deportes",Esport 3
+https://directes-tv-int.ccma.cat/int/ngrp:es3_web/playlist.m3u8
+#EXTINF:-1 tvg-name="CBS Sports HQ" tvg-logo="https://images.pluto.tv/channels/5e9f2c05172a0f0007db4786/colorLogoPNG.png" group-title="Deportes",CBS Sports HQ
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e9f2c05172a0f0007db4786/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=702&deviceId=5e9f2c05172a0f0007db4786&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Deportes",Eir.Sport1
 http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/535
 #EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Deportes",Eleven.Sports-Network
@@ -288,10 +260,36 @@ http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/873
 http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/5375
 #EXTINF:0 group-title="Deportes",Halow Sport HD
 http://echotv.online:8080/HalowTV/FSyzHfEhvb/137
+#EXTINF:-1 tvg-name="Pluto TV Sports" tvg-logo="https://images.pluto.tv/channels/56340779a738201b4ccfeac9/colorLogoPNG.png" group-title="Deportes",Pluto TV Sports
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56340779a738201b4ccfeac9/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=725&deviceId=56340779a738201b4ccfeac9&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-name="Sports News" tvg-logo="https://i.imgur.com/DWcfDc5.png" group-title="Deportes",Sports News
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf221fad5eeee0f5a40941c/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Red Bull TV" tvg-language="English" tvg-logo="https://i.imgur.com/7NeBmWX.jpg" tvg-country="INT" tvg-url="" group-title="Deportes",Red Bull TV
+https://dms.redbull.tv/v3/linear-borb/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXRlZ29yeSI6InBlcnNvbmFsX2NvbXB1dGVyIiwiY291bnRyeV9jb2RlIjoidXMiLCJleHBpcmVzIjoiMjAxNy0wOS0xNlQxNzo0NjowMy45NjM0NjI4NDJaIiwib3NfZmFtaWx5IjoiaHR0cCIsInJlbW90ZV9pcCI6IjEwLjE1Ny4xMTIuMTQ4IiwidWEiOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xMl81KSBBcHBsZVdlYktpdC82MDMuMi40IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xMC4xLjEgU2FmYXJpLzYwMy4yLjQiLCJ1aWQiOiJkOGZiZWYzMC0yZDhhLTQwYTUtOGNjNy0wNzgxNGJhMTliNzMifQ.Q_38FNpW3so5yrA5FQt9qBuix3dTulKpb6uQ0dRjrtY/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://static1.squarespace.com/static/5a6f534f017db2d628751be1/t/5a6f5557652deada67290f54" tvg-country="US" tvg-url="" group-title="Deportes",Edge Sports
+https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Deportes", AYM SPORTS
+http://srregio.net/Sr_Regio151120/tp.php?c=180&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 group-title="Deportes", ADRENALINA SPORTS HD
+http://srregio.net/Sr_Regio151120/tp.php?c=1799&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 group-title="Deportes", LAS
+http://srregio.net/Sr_Regio151120/tp.php?c=2089&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 group-title="Deportes", HAVOC
+http://srregio.net/Sr_Regio151120/tp.php?c=2148&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 group-title="Deportes", TVC DEPORTES
+http://srregio.net/Sr_Regio151120/tp.php?c=2157&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 group-title="Deportes", CLARO SPORTS HD  
+http://srregio.net/Sr_Regio151120/tp.php?c=2564&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 group-title="Deportes", FUEL TV HD 
+http://srregio.net/Sr_Regio151120/tp.php?c=2587&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Deportes",EUROSPORT 1
+http://wweraw.ddns.net:8080/live:mtg_2406_1010101/live:mtg_2406_1010101/8233
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Deportes",EUROSPORT 2
+http://wweraw.ddns.net:8080/live:mtg_2406_1010101/live:mtg_2406_1010101/8232
 
 *** CULTURALES ***
 #EXTINF:-1 group-title="Culturales", DISCOVERY ID
-http://srregio.net/Sr_Regio151120/tp.php?c=68&p=3&k=srregio&f=.m3u8  
+http://srregio.net/Sr_Regio151120/tp.php?c=68&p=3&k=srregio&f=.m3u8 
  #EXTINF:-1 group-title="Culturales", GARAGE TV 
 http://srregio.net/Sr_Regio151120/tp.php?c=75&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1 group-title="Culturales", DISCOVERY CHANNEL
@@ -446,7 +444,15 @@ http://srregio.net/Sr_Regio151120/tp.php?c=2091&p=3&k=srregio&f=.m3u8
 http://srregio.net/Sr_Regio151120/tp.php?c=2402&p=3&k=srregio&f=.m3u8  
  
 
+*** Pruebas ***
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1161088,RESOLUTION=640x360,CODECS="avc1.4d401e,mp4a.40.5",group-title="Pruebas", ESPN
+https://ott.cdn.iutpcdn.com/LIVE/H01/CANAL558,vxttoken=cGF0aFVSST0lMkZMSVZFJTJGSDAxJTJGQ0FOQUw1NTglMkYqJmV4cGlyeT0xNjEwMDUzMjYyJmZuPXNoYTI1NiZ4JTNBcz0zNTk5NDAwLGQ4NjY3MTk2Y2Q4ZWY2ZmY0MDIxNTVmMDBmY2JiNDA0YTgyOThkZDIwNzJhYzU0MGE2OGQyYTI1YTgwNGQxMjI=/PROFILE03.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1161088,RESOLUTION=640x360,CODECS="avc1.4d401e,mp4a.40.5",group-title="Pruebas", ESPN 2
+https://ott.cdn.iutpcdn.com/LIVE/H01/CANAL561,vxttoken=cGF0aFVSST0lMkZMSVZFJTJGSDAxJTJGQ0FOQUw1NjElMkYqJmV4cGlyeT0xNjEwMDUzMzI1JmZuPXNoYTI1NiZ4JTNBcz0zNTk5NDAwLDI0NWU4ZTBjMTJlMjFjZjBhYmU3NDMwMzM1M2FlYjhiYzA3ZTIxOTIxYjA0YmE0NjM3NTU3MzM1Mzk4Zjc0MDc=/PROFILE03.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1161088,RESOLUTION=640x360,CODECS="avc1.4d401e,mp4a.40.5",group-title="Pruebas", ESPN 3
+https://ott.cdn.iutpcdn.com/LIVE/H01/CANAL520,vxttoken=cGF0aFVSST0lMkZMSVZFJTJGSDAxJTJGQ0FOQUw1MjAlMkYqJmV4cGlyeT0xNjEwMDU0MDgyJmZuPXNoYTI1NiZ4JTNBcz0zNTk5NDAwLGQwMDQxMjdjZDk3ZDUwOGVkOTAzMDc0ZDk3NzhiN2IzZTMxOWFkODhiNTM1NTMyMjEzN2JlZWQ4MDMyMDQ3YTQ=/PROFILE03.m3u8
 
-
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4242784,RESOLUTION=1920x1080,CODECS="avc1.4d4028,mp4a.40.5",group-title="Pruebas", TUDN
+https://ott.cdn.iutpcdn.com/LIVE/H01/CANAL174,vxttoken=cGF0aFVSST0lMkZMSVZFJTJGSDAxJTJGQ0FOQUwxNzQlMkYqJmV4cGlyeT0xNjEwMDUzNjA1JmZuPXNoYTI1NiZ4JTNBcz0zNTk5NDAwLDYxODU3NjQxNGZlZDgxZDZjNDQ3N2U4NWRhZmU5OTNkZmNhMmZjNDMzNzFjMmQ5ZjgzYWVkMzJkM2MzMzQ2NWI=/PROFILE05.m3u8
   
 
