@@ -164,12 +164,10 @@ http://srregio.net/Sr_Regio151120/tp.php?c=1842&p=3&k=srregio&f=.m3u8
 http://srregio.net/Sr_Regio151120/tp.php?c=2113&p=3&k=srregio&f=.m3u8
 
 *** DEPORTES ***
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sport Xtra (CA)" tvg-logo="https://i.imgur.com/pVU9nrc.png" group-title="Deportes",Bein Sport Xtra (CA)
-https://bein-xtra-samsung-canada.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="beIN SPORTS XTRA" tvg-logo="https://images.pluto.tv/channels/5df975e2b27cf5000921c102/colorLogoPNG.png" group-title="Deportes",beIN SPORTS XTRA
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=740&deviceId=5df975e2b27cf5000921c102&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Deportes",bein Sports España 1
-http://super1.ideaiptv.com:2052/bandook/3243243/26737
+yourdnshere.xyz:83/live/trevorparker/8177168823/376726.ts
 #EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Deportes",bein Sports España 2
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13540
 #EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Deportes",bein Sports España 3
