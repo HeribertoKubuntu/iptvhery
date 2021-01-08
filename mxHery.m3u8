@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1, ADN 40 HD
+http://srregio.net/Sr_Regio151120/tp.php?c=184&p=3&k=srregio&f=.m3u8
 *** INFANTILES ***
 #EXTINF:-1 group-title="Infantiles", TOONCAST
 http://srregio.net/Sr_Regio151120/tp.php?c=108&p=3&k=srregio&f=.m3u8
@@ -167,12 +169,10 @@ http://srregio.net/Sr_Regio151120/tp.php?c=2113&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 tvg-name="beIN SPORTS XTRA" tvg-logo="https://images.pluto.tv/channels/5df975e2b27cf5000921c102/colorLogoPNG.png" group-title="Deportes",beIN SPORTS XTRA
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=740&deviceId=5df975e2b27cf5000921c102&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Deportes",bein Sports España 1
-yourdnshere.xyz:83/live/trevorparker/8177168823/376726.ts
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Deportes",bein Sports España 2
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13540
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Deportes",bein Sports España 3
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Deportes",bein Sports España 2
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7248
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Deportes",bein Sports España 4
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Deportes",bein Sports España 3
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8745
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Deportes",bein Sports US Opción 1
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13759
@@ -196,6 +196,12 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6355
 http://yourdnshere.xyz:83/live/trevorparker/8177168823/386308.ts
 #EXTINF:0 tvg-country="US" tvg-logo="https://1000logos.net/wp-content/uploads/2017/04/Logo-NBA.png" group-title="Deportes",NBA TV(M)(720)
 http://212.102.60.121:8000/calem7/4BY4CSaMUW/1585
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TNT HD US
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6354?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TNT Opción 1
+http://104.218.60.68:83/a0w10NwSwz/35222020350823A324475658352020/99?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TNT Opción 2
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/660?checkedby:hlscat.com
 #EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Deportes",NBC Sports 1
 http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/872
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Deportes",NBC Sports 2
