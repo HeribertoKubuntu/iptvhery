@@ -196,12 +196,18 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6355
 http://yourdnshere.xyz:83/live/trevorparker/8177168823/386308.ts
 #EXTINF:0 tvg-country="US" tvg-logo="https://1000logos.net/wp-content/uploads/2017/04/Logo-NBA.png" group-title="Deportes",NBA TV(M)(720)
 http://212.102.60.121:8000/calem7/4BY4CSaMUW/1585
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TNT HD US
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Deportes",TNT HD US
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6354?checkedby:hlscat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TNT Opción 1
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Deportes",TNT Opción 1
 http://104.218.60.68:83/a0w10NwSwz/35222020350823A324475658352020/99?checkedby:hlscat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TNT Opción 2
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Deportes",TNT Opción 2
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/660?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Deportes",SPORTSNET PACIFIC
+http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/11548.ts
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Deportes",SPORTSNET WEST
+http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/11549.ts
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Deportes",Sportsnet West HD US
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4861
 #EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Deportes",NBC Sports 1
 http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/872
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Deportes",NBC Sports 2
