@@ -1,39 +1,8 @@
 #EXTM3U
-#EXTINF:-1, ADN 40 HD
-http://srregio.net/Sr_Regio151120/tp.php?c=184&p=3&k=srregio&f=.m3u8
+
 *** INFANTILES ***
-#EXTINF:-1 group-title="Infantiles", TOONCAST
-http://srregio.net/Sr_Regio151120/tp.php?c=108&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 group-title="Infantiles", DISCOVERY KIDS
-http://srregio.net/Sr_Regio151120/tp.php?c=109&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 group-title="Infantiles", NICK
-http://srregio.net/Sr_Regio151120/tp.php?c=110&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 group-title="Infantiles", DISNEY XD
-http://srregio.net/Sr_Regio151120/tp.php?c=111&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 group-title="Infantiles", CARTOON NETWORK
-http://srregio.net/Sr_Regio151120/tp.php?c=112&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 group-title="Infantiles", DISNEY CHANNEL
-http://srregio.net/Sr_Regio151120/tp.php?c=113&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 group-title="Infantiles", BOOMERANG
-http://srregio.net/Sr_Regio151120/tp.php?c=115&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 group-title="Infantiles", BABY TV 
-http://srregio.net/Sr_Regio151120/tp.php?c=116&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 group-title="Infantiles", NICK JR
-http://srregio.net/Sr_Regio151120/tp.php?c=117&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 group-title="Infantiles", DISNEY JR
-http://srregio.net/Sr_Regio151120/tp.php?c=118&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 group-title="Infantiles", NICKTOONS SD 
-http://srregio.net/Sr_Regio151120/tp.php?c=1708&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 group-title="Infantiles", BABY FIRST
-http://srregio.net/Sr_Regio151120/tp.php?c=1984&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 group-title="Infantiles", NICK 2  
-http://srregio.net/Sr_Regio151120/tp.php?c=2147&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 tvg-name="Nick Jr. Latino" tvg-logo="https://images.pluto.tv/channels/5d8d0ec7b0f7015fbe0a3bf7/colorLogoPNG.png" group-title="Infantiles",Nick Jr. Latino
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d0ec7b0f7015fbe0a3bf7/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=998&deviceId=5d8d0ec7b0f7015fbe0a3bf7&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 group-title="Infantiles", NAT GEO KIDS  
-http://srregio.net/Sr_Regio151120/tp.php?c=2373&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 group-title="Infantiles", BIT ME  
-http://srregio.net/Sr_Regio151120/tp.php?c=2591&p=3&k=srregio&f=.m3u8
 
 *** CINE ***
 #EXTINF:-1 tvg-name="Pluto TV Cine" tvg-logo="https://images.pluto.tv/channels/5cf96b1c4f1ca3f0629f4bf0/colorLogoPNG.png" group-title="Peliculas",Pluto TV Cine
@@ -42,128 +11,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96b1c4f1ca3f062
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d164d92e97a5e107638d2/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=904&deviceId=5d8d164d92e97a5e107638d2&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-name="Pluto TV Cine Estelar" tvg-logo="https://images.pluto.tv/channels/5cf968040ab7d8f181e6a68b/colorLogoPNG.png" group-title="Peliculas",Pluto TV Cine Estelar
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=901&deviceId=5cf968040ab7d8f181e6a68b&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 group-title="Peliculas", A3CINE 
-http://srregio.net/Sr_Regio151120/tp.php?c=3112&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 group-title="Peliculas", TBS SD  
-http://srregio.net/Sr_Regio151120/tp.php?c=81&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 group-title="Peliculas", DE PELICULA + 
-http://srregio.net/Sr_Regio151120/tp.php?c=121&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 group-title="Peliculas", GOLDEN +
-http://srregio.net/Sr_Regio151120/tp.php?c=122&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 group-title="Peliculas", GOLDEN
-http://srregio.net/Sr_Regio151120/tp.php?c=123&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 group-title="Peliculas", GOLDEN EDGE
-http://srregio.net/Sr_Regio151120/tp.php?c=124&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 group-title="Peliculas", TNT 
-http://srregio.net/Sr_Regio151120/tp.php?c=126&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 group-title="Peliculas", TCM
-http://srregio.net/Sr_Regio151120/tp.php?c=128&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 group-title="Peliculas", SPACE
-http://srregio.net/Sr_Regio151120/tp.php?c=129&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 group-title="Peliculas", AMC 
-http://srregio.net/Sr_Regio151120/tp.php?c=131&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 group-title="Peliculas", STUDIO UNIVERSAL
-http://srregio.net/Sr_Regio151120/tp.php?c=132&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 group-title="Peliculas", I SAT  
-http://srregio.net/Sr_Regio151120/tp.php?c=135&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 group-title="Peliculas", EUROPA CHANNEL 
-http://srregio.net/Sr_Regio151120/tp.php?c=136&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 group-title="Peliculas", FILMS & ARTS
-http://srregio.net/Sr_Regio151120/tp.php?c=137&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 group-title="Peliculas", FXM
-http://srregio.net/Sr_Regio151120/tp.php?c=138&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 group-title="Peliculas", FXM SD 
-http://srregio.net/Sr_Regio151120/tp.php?c=332&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 group-title="Peliculas", FOX SERIES
-http://srregio.net/Sr_Regio151120/tp.php?c=139&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 group-title="Peliculas", MORBIDO
-http://srregio.net/Sr_Regio151120/tp.php?c=140&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 group-title="Peliculas", FOX MOVIES 
-http://srregio.net/Sr_Regio151120/tp.php?c=146&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 group-title="Peliculas", CINECANAL
-http://srregio.net/Sr_Regio151120/tp.php?c=149&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 group-title="Peliculas", CINEMAX 
-http://srregio.net/Sr_Regio151120/tp.php?c=158&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 group-title="Peliculas", AMC  
-http://srregio.net/Sr_Regio151120/tp.php?c=328&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 group-title="Peliculas", DE PELICULA SD
-http://srregio.net/Sr_Regio151120/tp.php?c=335&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 group-title="Peliculas", FOX ACTION
-http://srregio.net/Sr_Regio151120/tp.php?c=336&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 group-title="Peliculas", PARAMOUNT CHANNEL 
-http://srregio.net/Sr_Regio151120/tp.php?c=1726&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 group-title="Peliculas", FOX CINEMA SD
-http://srregio.net/Sr_Regio151120/tp.php?c=1729&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 group-title="Peliculas", FOX CLASSICS SD
-http://srregio.net/Sr_Regio151120/tp.php?c=1732&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 group-title="Peliculas", AZ CINEMA 
-http://srregio.net/Sr_Regio151120/tp.php?c=1787&p=3&k=srregio&f=.m3u8
-
-*** ENTRETENIMIENTO ***
-#EXTINF:-1 group-title="Entretenimiento", TELEMUNDO INTERNACIONAL HD
-http://srregio.net/Sr_Regio151120/tp.php?c=85&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 group-title="Entretenimiento", FOX  
-http://srregio.net/Sr_Regio151120/tp.php?c=46&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 group-title="Entretenimiento", SONY  
-http://srregio.net/Sr_Regio151120/tp.php?c=48&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 group-title="Entretenimiento", WARNER  
-http://srregio.net/Sr_Regio151120/tp.php?c=52&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 group-title="Entretenimiento", E!
-http://srregio.net/Sr_Regio151120/tp.php?c=55&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 group-title="Entretenimiento", UNIVERSAL
-http://srregio.net/Sr_Regio151120/tp.php?c=57&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 group-title="Entretenimiento", SYFY
-http://srregio.net/Sr_Regio151120/tp.php?c=59&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 group-title="Entretenimiento", FX
-http://srregio.net/Sr_Regio151120/tp.php?c=60&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 group-title="Entretenimiento", A&E
-http://srregio.net/Sr_Regio151120/tp.php?c=62&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 group-title="Entretenimiento", AXN
-http://srregio.net/Sr_Regio151120/tp.php?c=64&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 group-title="Entretenimiento", UNICABLE SD
-http://srregio.net/Sr_Regio151120/tp.php?c=66&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 group-title="Entretenimiento", SUNDANCE TV
-http://srregio.net/Sr_Regio151120/tp.php?c=69&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 group-title="Entretenimiento", TNT SERIES
-http://srregio.net/Sr_Regio151120/tp.php?c=71&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 group-title="Entretenimiento", GLITZ
-http://srregio.net/Sr_Regio151120/tp.php?c=76&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 group-title="Entretenimiento", GOURMET 
-http://srregio.net/Sr_Regio151120/tp.php?c=74&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 group-title="Entretenimiento", FOX LIFE
-http://srregio.net/Sr_Regio151120/tp.php?c=77&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 group-title="Entretenimiento", DISTRITO COMEDIA SD
-http://srregio.net/Sr_Regio151120/tp.php?c=78&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 group-title="Entretenimiento", TRUTV
-http://srregio.net/Sr_Regio151120/tp.php?c=79&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 group-title="Entretenimiento", TL NOVELAS SD
-http://srregio.net/Sr_Regio151120/tp.php?c=83&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 group-title="Entretenimiento", LIFETIME 
-http://srregio.net/Sr_Regio151120/tp.php?c=94&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 group-title="Entretenimiento", ANTENA 3
-http://srregio.net/Sr_Regio151120/tp.php?c=199&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 group-title="Entretenimiento", FOX HD 
-http://srregio.net/Sr_Regio151120/tp.php?c=201&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 group-title="Entretenimiento", WARNER HD 
-http://srregio.net/Sr_Regio151120/tp.php?c=205&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 group-title="Entretenimiento", UNIVERSAL HD
-http://srregio.net/Sr_Regio151120/tp.php?c=207&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 group-title="Entretenimiento", FX HD
-http://srregio.net/Sr_Regio151120/tp.php?c=209&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 group-title="Entretenimiento", TRUTV HD
-http://srregio.net/Sr_Regio151120/tp.php?c=215&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 group-title="Entretenimiento", HOLA TV HD
-http://srregio.net/Sr_Regio151120/tp.php?c=219&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 group-title="Entretenimiento", COMEDY CENTRAL
-http://srregio.net/Sr_Regio151120/tp.php?c=340&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 group-title="Entretenimiento", COMEDY CENTRAL SD
-http://srregio.net/Sr_Regio151120/tp.php?c=341&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 group-title="Entretenimiento", UNICABLE
-http://srregio.net/Sr_Regio151120/tp.php?c=1499&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 group-title="Entretenimiento", MAS CHIC
-http://srregio.net/Sr_Regio151120/tp.php?c=1842&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 group-title="Entretenimiento", A3SERIES
-http://srregio.net/Sr_Regio151120/tp.php?c=2113&p=3&k=srregio&f=.m3u8
 
 *** DEPORTES ***
 #EXTINF:-1 tvg-name="beIN SPORTS XTRA" tvg-logo="https://images.pluto.tv/channels/5df975e2b27cf5000921c102/colorLogoPNG.png" group-title="Deportes",beIN SPORTS XTRA
@@ -209,15 +56,11 @@ http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/11549.ts
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Deportes",Sportsnet West HD US
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4861
 #EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Deportes",NBC Sports 1
-http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/872
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4952
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Deportes",NBC Sports 2
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14403
-#EXTINF:-1 group-title="Deportes", FOX SPORTS
-http://srregio.net/Sr_Regio151120/tp.php?c=170&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 group-title="Deportes", FOX SPORTS 2
-http://srregio.net/Sr_Regio151120/tp.php?c=172&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 group-title="Deportes", FOX SPORTS 3 
-http://srregio.net/Sr_Regio151120/tp.php?c=178&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Deportes",NBC Sports 3
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/35858
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Deportes",Fox Sports North HD US
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14355
 #EXTINF:-1 tvg-name="FOX Sports" tvg-logo="https://images.pluto.tv/channels/5a74b8e1e22a61737979c6bf/colorLogoPNG.png" group-title="Deportes",FOX Sports
@@ -228,14 +71,6 @@ http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="US" tvg-url="" group-title="Deportes",FOX Sport HD 1
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
-#EXTINF:-1 group-title="Deportes", ESPN + 
-http://srregio.net/Sr_Regio151120/tp.php?c=167&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 group-title="Deportes", ESPN 
-http://srregio.net/Sr_Regio151120/tp.php?c=168&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 group-title="Deportes", ESPN 2
-http://srregio.net/Sr_Regio151120/tp.php?c=169&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 group-title="Deportes", ESPN 3 
-http://srregio.net/Sr_Regio151120/tp.php?c=345&p=3&k=srregio&f=.m3u8
 #EXTINF:0 tvg-country="US" tvg-logo="https://1000logos.net/wp-content/uploads/2017/04/Logo-NBA.png" group-title="Deportes",Espn (TV)(720)
 http://212.102.60.121:8000/calem7/4BY4CSaMUW/53832
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Deportes",ESPN 2 HD (ENG)
@@ -250,8 +85,6 @@ http://uruguayiptv.com:25461/leandro1/leandro123/79963
 http://uruguayiptv.com:25461/leandro1/leandro123/454
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Deportes",ESPN HD ARGENTINA
 http://uruguayiptv.com:25461/leandro1/leandro123/77726
-#EXTINF:-1 group-title="Deportes", TUDN
-http://srregio.net/Sr_Regio151120/tp.php?c=174&p=3&k=srregio&f=.m3u8
 #EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Deportes",FS1
 http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/870
 #EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Deportes",FS2
@@ -261,7 +94,7 @@ https://elevensports-samsunguk-ca.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="E3.TV" tvg-name="Esport 3" tvg-id="" tvg-logo="http://cdn.teleon.tv/logo/es-esport-3.jpg" group-title="Deportes",Esport 3
 https://directes-tv-int.ccma.cat/int/ngrp:es3_web/playlist.m3u8
 #EXTINF:-1 tvg-name="CBS Sports HQ" tvg-logo="https://images.pluto.tv/channels/5e9f2c05172a0f0007db4786/colorLogoPNG.png" group-title="Deportes",CBS Sports HQ
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e9f2c05172a0f0007db4786/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=702&deviceId=5e9f2c05172a0f0007db4786&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e9f2c05172a0f0007db4786/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=702&deviceId=5e9f2c05172a0f0007db4786&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:hlscat.com
 #EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Deportes",Eir.Sport1
 http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/535
 #EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Deportes",Eleven.Sports-Network
@@ -278,86 +111,12 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf221fad5eeee0f5a40941c/
 https://dms.redbull.tv/v3/linear-borb/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXRlZ29yeSI6InBlcnNvbmFsX2NvbXB1dGVyIiwiY291bnRyeV9jb2RlIjoidXMiLCJleHBpcmVzIjoiMjAxNy0wOS0xNlQxNzo0NjowMy45NjM0NjI4NDJaIiwib3NfZmFtaWx5IjoiaHR0cCIsInJlbW90ZV9pcCI6IjEwLjE1Ny4xMTIuMTQ4IiwidWEiOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xMl81KSBBcHBsZVdlYktpdC82MDMuMi40IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xMC4xLjEgU2FmYXJpLzYwMy4yLjQiLCJ1aWQiOiJkOGZiZWYzMC0yZDhhLTQwYTUtOGNjNy0wNzgxNGJhMTliNzMifQ.Q_38FNpW3so5yrA5FQt9qBuix3dTulKpb6uQ0dRjrtY/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://static1.squarespace.com/static/5a6f534f017db2d628751be1/t/5a6f5557652deada67290f54" tvg-country="US" tvg-url="" group-title="Deportes",Edge Sports
 https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
-#EXTINF:-1 group-title="Deportes", AYM SPORTS
-http://srregio.net/Sr_Regio151120/tp.php?c=180&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 group-title="Deportes", ADRENALINA SPORTS HD
-http://srregio.net/Sr_Regio151120/tp.php?c=1799&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 group-title="Deportes", LAS
-http://srregio.net/Sr_Regio151120/tp.php?c=2089&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 group-title="Deportes", HAVOC
-http://srregio.net/Sr_Regio151120/tp.php?c=2148&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 group-title="Deportes", TVC DEPORTES
-http://srregio.net/Sr_Regio151120/tp.php?c=2157&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 group-title="Deportes", CLARO SPORTS HD  
-http://srregio.net/Sr_Regio151120/tp.php?c=2564&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 group-title="Deportes", FUEL TV HD 
-http://srregio.net/Sr_Regio151120/tp.php?c=2587&p=3&k=srregio&f=.m3u8
 #EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Deportes",EUROSPORT 1
 http://wweraw.ddns.net:8080/live:mtg_2406_1010101/live:mtg_2406_1010101/8233
 #EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Deportes",EUROSPORT 2
 http://wweraw.ddns.net:8080/live:mtg_2406_1010101/live:mtg_2406_1010101/8232
 
-*** CULTURALES ***
-#EXTINF:-1 group-title="Culturales", DISCOVERY ID
-http://srregio.net/Sr_Regio151120/tp.php?c=68&p=3&k=srregio&f=.m3u8 
- #EXTINF:-1 group-title="Culturales", GARAGE TV 
-http://srregio.net/Sr_Regio151120/tp.php?c=75&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 group-title="Culturales", DISCOVERY CHANNEL
-http://srregio.net/Sr_Regio151120/tp.php?c=86&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 group-title="Culturales", ANIMAL PLANET
-http://srregio.net/Sr_Regio151120/tp.php?c=88&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 group-title="Culturales", HISTORY
-http://srregio.net/Sr_Regio151120/tp.php?c=89&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 group-title="Culturales", NAT GEO  
-http://srregio.net/Sr_Regio151120/tp.php?c=91&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 group-title="Culturales", NAT GEO WILD
-http://srregio.net/Sr_Regio151120/tp.php?c=92&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 group-title="Culturales", DISCOVERY THEATER
-http://srregio.net/Sr_Regio151120/tp.php?c=95&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1 group-title="Culturales", H&H
-http://srregio.net/Sr_Regio151120/tp.php?c=96&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1 group-title="Culturales", TLC
-http://srregio.net/Sr_Regio151120/tp.php?c=97&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 group-title="Culturales", DISCOVERY SCIENCE  
-http://srregio.net/Sr_Regio151120/tp.php?c=98&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 group-title="Culturales", DISCOVERY CIVILIZATION
-http://srregio.net/Sr_Regio151120/tp.php?c=99&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 group-title="Culturales", DISCOVERY WORLD
-http://srregio.net/Sr_Regio151120/tp.php?c=101&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 group-title="Culturales", TVE
-http://srregio.net/Sr_Regio151120/tp.php?c=198&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1 group-title="Culturales", SHOPPING
-http://srregio.net/Sr_Regio151120/tp.php?c=1943&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1 group-title="Culturales", FOOD NETWORK 
-http://srregio.net/Sr_Regio151120/tp.php?c=2145&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1 group-title="Culturales", STAR TVE 
-http://srregio.net/Sr_Regio151120/tp.php?c=2375&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1 group-title="Culturales", DISCOVERY TURBO
-http://srregio.net/Sr_Regio151120/tp.php?c=2379&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 group-title="Culturales", CURIOSITY STREAM
-http://srregio.net/Sr_Regio151120/tp.php?c=2594&p=3&k=srregio&f=.m3u8  
-
 *** MUSICA ***
-#EXTINF:-1 group-title="Musicales", MTV LIVE
-http://srregio.net/Sr_Regio151120/tp.php?c=211&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 group-title="Musicales", MTV
-http://srregio.net/Sr_Regio151120/tp.php?c=212&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 group-title="Musicales", MTV HITS SD
-http://srregio.net/Sr_Regio151120/tp.php?c=213&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 group-title="Musicales", VH1 CLASSIC SD
-http://srregio.net/Sr_Regio151120/tp.php?c=214&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1 group-title="Musicales", VH1 SD 
-http://srregio.net/Sr_Regio151120/tp.php?c=217&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 group-title="Musicales", TELEHIT URBANO SD
-http://srregio.net/Sr_Regio151120/tp.php?c=218&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1 group-title="Musicales", TELEHIT +
-http://srregio.net/Sr_Regio151120/tp.php?c=220&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 group-title="Musicales", BANDAMAX SD
-http://srregio.net/Sr_Regio151120/tp.php?c=221&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 group-title="Musicales", AZ CLIC
-http://srregio.net/Sr_Regio151120/tp.php?c=223&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1 group-title="Musicales", VH1 HD
-http://srregio.net/Sr_Regio151120/tp.php?c=334&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1 tvg-ID="PLEX.TV.Latido.Music" tvg-name="Latido Music" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/latido-music-logo.png" group-title="Musicales",Latido Music
 https://vidaprimo-plex.amagi.tv/amRdirect/us_privacy=1---&did=df8e1a36-847d-5096-86a7-3803ed330ede&dnt=0&X-Plex-Token=MorUy57ijWhGe4ixZb_T&channelId=5f598c33465f860041cd2dee/hls/amagi_hls_data_vidaprimo-vidaprimo-plex/CDN/1920x1080_5491200/index.m3u8
 #EXTINF:-1 tvg-ID="PLEX.TV.Latin.x.Loop" tvg-name"Latin x Loop" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/latin-x-loop.png" group-title="Musicales",Latin x Loop
@@ -404,57 +163,3 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=63&live=1&app_b
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=890&deviceId=5d93b635b43dd1a399b39eee&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-name="BaebleMusic" tvg-id="BaebleMusic" group-title="Musicales" tvg-logo="https://i.imgur.com/9kLTfsY.png",BaebleMusic
 https://dai1.xumo.com/bmneuerw7j9k5lfc/9999231/master.m3u8
-
-*** NOTICIAS ***
-#EXTINF:-1, FOROTV HD
-http://srregio.net/Sr_Regio151120/tp.php?c=4&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, FOROTV SD
-http://srregio.net/Sr_Regio151120/tp.php?c=19&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1, ADN40
-http://srregio.net/Sr_Regio151120/tp.php?c=40&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1, ADN 40 HD
-http://srregio.net/Sr_Regio151120/tp.php?c=184&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, CNN
-http://srregio.net/Sr_Regio151120/tp.php?c=185&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, CNN SD
-http://srregio.net/Sr_Regio151120/tp.php?c=186&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, CNN Ñ SD
-http://srregio.net/Sr_Regio151120/tp.php?c=187&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, WOBI 
-http://srregio.net/Sr_Regio151120/tp.php?c=102&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1, FOXN EWS
-http://srregio.net/Sr_Regio151120/tp.php?c=188&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, BLOOMBERG 
-http://srregio.net/Sr_Regio151120/tp.php?c=190&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, BBC SD
-http://srregio.net/Sr_Regio151120/tp.php?c=191&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1, AL JAAZERA 
-http://srregio.net/Sr_Regio151120/tp.php?c=192&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, NTN 24
-http://srregio.net/Sr_Regio151120/tp.php?c=194&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, JUSTICIA TV 
-http://srregio.net/Sr_Regio151120/tp.php?c=196&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1, HLN
-http://srregio.net/Sr_Regio151120/tp.php?c=197&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1, DW 
-http://srregio.net/Sr_Regio151120/tp.php?c=203&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, RT
-http://srregio.net/Sr_Regio151120/tp.php?c=999&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, MILENIO HD
-http://srregio.net/Sr_Regio151120/tp.php?c=1250&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, MILENIO SD 
-http://srregio.net/Sr_Regio151120/tp.php?c=1252&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, EXCELSIOR TV
-http://srregio.net/Sr_Regio151120/tp.php?c=1449&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, EL FINANCIERO HD 
-http://srregio.net/Sr_Regio151120/tp.php?c=1649&p=3&k=srregio&f=.m3u8  
- #EXTINF:-1, RT ESPAÑOL
-http://srregio.net/Sr_Regio151120/tp.php?c=2091&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1, FRANCE 24
-http://srregio.net/Sr_Regio151120/tp.php?c=2402&p=3&k=srregio&f=.m3u8  
- 
-
-*** Pruebas ***
-
-  
-
