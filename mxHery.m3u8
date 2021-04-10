@@ -13,6 +13,50 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d164d92e97a5e10
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=901&deviceId=5cf968040ab7d8f181e6a68b&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
 *** DEPORTES ***
+#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Sport",BEIN SPORTS 10 UHD OLYMPIC
+http://bazarhd.online:80/307234110115/307234110115/78628?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Sport",BEIN SPORTS 11 UHD EN
+http://bazarhd.online:80/307234110115/307234110115/78627?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Sport",BEIN SPORTS 12 UHD EN
+http://bazarhd.online:80/307234110115/307234110115/78626?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Sport",BEINS SPORTS PREMIUM 3 UHD
+http://bazarhd.online:80/307234110115/307234110115/78635?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Sport",BEINS SPORTS PREMIUM 2 UHD
+http://bazarhd.online:80/307234110115/307234110115/78636?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Sport",BEINS SPORTS PREMIUM 1 UHD
+http://bazarhd.online:80/307234110115/307234110115/78637?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Sport",BEIN SPORTS 9 UHD
+http://bazarhd.online:80/307234110115/307234110115/78629?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Sport",BEIN SPORTS 7 UHD
+http://bazarhd.online:80/307234110115/307234110115/78631?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Sport",BEIN SPORTS 8 UHD
+http://bazarhd.online:80/307234110115/307234110115/78630?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Sport",BEIN SPORTS 6 UHD
+http://bazarhd.online:80/307234110115/307234110115/78632?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Sport",BEIN SPORTS 5 UHD
+http://bazarhd.online:80/307234110115/307234110115/78633?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Sport",BEIN SPORTS 4 UHD
+http://bazarhd.online:80/307234110115/307234110115/78634?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",Bein Liga HD
+https://fullenglish.xyz:443/monte/monte123/486373?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",BEIN LALIGA1 HD
+http://pn.tvott.info:80/0174263561/8759368659/79305?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",BEIN LALIGA1 HD
+http://rv.flysat.live:80/307242117531/307242117531/79305?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",BEIN LALIGA1 HD
+http://rv.flysat.live:80/307200102142/307200102142/79305?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",BEIN LALIGA HD
+http://rv.flysat.live:80/307242117531/307242117531/79306?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",BEIN LALIGA HD
+http://rv.flysat.live:80/307200102142/307200102142/79306?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",BEIN LALIGA HD
+http://rv.flysat.live:80/307200102142/307200102142/79186?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",BEIN LALIGA HD
+http://rv.flysat.live:80/307242117531/307242117531/79186?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",BEIN LALIGA HD
+http://pn.tvott.info:80/0174263561/8759368659/79306?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",BEIN LALIGA HD
+http://pn.tvott.info:80/0174263561/8759368659/79186?checkedby:iptvcat.com
 #EXTINF:-1 tvg-name="beIN SPORTS XTRA" tvg-logo="https://images.pluto.tv/channels/5df975e2b27cf5000921c102/colorLogoPNG.png" group-title="Deportes",beIN SPORTS XTRA
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=740&deviceId=5df975e2b27cf5000921c102&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Deportes",bein Sports España 1
