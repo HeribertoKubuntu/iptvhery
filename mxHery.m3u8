@@ -15,6 +15,12 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf968040ab7d8f181
 *** DEPORTES ***
 #EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Sport",BEIN SPORTS 10 UHD OLYMPIC
 http://bazarhd.online:80/307234110115/307234110115/78628?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TNT (East Wueno) HD
+http://iptvtree.net:8080/geniptv/4faed690fd/6353?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TNT
+http://serviceinput.online:2999/universidad/universidad/240?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TNT
+http://00322.xyz:8000/budalatino777/IBHxkUjGjH/131261?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Sport",BEIN SPORTS 11 UHD EN
 http://bazarhd.online:80/307234110115/307234110115/78627?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Sport",BEIN SPORTS 12 UHD EN
