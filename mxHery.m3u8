@@ -13,6 +13,18 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d164d92e97a5e10
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=901&deviceId=5cf968040ab7d8f181e6a68b&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
 *** DEPORTES ***
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TNT
+http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/96162?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TNT
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/11155?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TNT (East)
+http://we.caughtyousnooping.club:80/markroofs/vk41iF39fz/886?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TNT HD
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/39108?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TNT HD
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/13098?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TNT HD
+http://dimapro.cz:8080/00:1A:79:17:08:C5/fukssjslsljls/39108?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Sport",BEIN SPORTS 10 UHD OLYMPIC
 http://bazarhd.online:80/307234110115/307234110115/78628?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TNT (East Wueno) HD
